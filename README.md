@@ -1,6 +1,7 @@
 # References
 1. https://medium.com/@ongchengjie/understanding-scalas-trait-and-stackable-traits-pattern-with-java-eb4e8730e3b4
 2. https://github.com/alexandru/scala-best-practices
+3. https://medium.com/@ongchengjie/understanding-scalas-trait-and-stackable-traits-pattern-with-java-eb4e8730e3b4
 
 
 # Concepts
